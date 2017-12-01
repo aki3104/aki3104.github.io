@@ -1,0 +1,90 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 13d8667..eae0299 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -12,7 +12,7 @@[m
+   <body><!--header-->[m
+     <header><a href="#contact" class="button-contact"><i aria-label="お問い合わせ" class="fa fa-envelope-o"></i></a>[m
+       <div class="profile">[m
+[31m-        <h1 class="site-title abel uppercase text-center">Web エンジニア <span>Sato</span></h1><img src="./images/img_profile.jpg" alt="プロフィール写真" width="140" height="140" class="block-center profile-icon">[m
+[32m+[m[32m        <h1 class="site-title abel uppercase text-center">Web エンジニア <span>Sato</span></h1><img src="./images2/img_profile2.jpg" alt="プロフィール写真" width="140" height="140" class="block-center profile-icon">[m
+         <p>岐阜県在住Webエンジニアを目指している佐藤です。webの独自サービスを作るべく、オンラインでWeb開発の知識を身に着けています。</p>[m
+       </div>[m
+     </header><!--contents-->[m
+[36m@@ -36,58 +36,58 @@[m
+       </section><!--works-->[m
+       <section id="works">[m
+         <h2 class="text-center">Works</h2>[m
+[31m-        <div class="works-box"><a href="#"><img src="./images/img_work_site.png" alt="株式会社きらめき コーポレートサイト様 Webサイトデザイン">[m
+[32m+[m[32m        <div class="works-box"><a href="#"><img src="./images2/img_DJI.jpg" alt="ドローン空撮案内">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>株式会社きらめき コーポレートサイト</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>ドローン空撮案内</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+[31m-        <div class="works-box"><a href="#"><img src="./images/img_work_card.jpg" alt="きらめき花子様 名刺デザイン">[m
+[32m+[m[32m        <div class="works-box"><a href="#"><img src="./images2/img_data.jpg" alt="データ管理">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>きらめき花子様 名刺</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>データ管理</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+[31m-        <div class="works-box"><a href="#"><img src="./images/img_work_blog.jpg" alt="WordPressオリジナルテーマ">[m
+[32m+[m[32m        <div class="works-box"><a href="#"><img src="./images2/img_website.jpg" alt="webサイト作成">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>ブログデザイン</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>webサイト作成</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+[31m-        <div class="works-box"><a href="#"><img src="./images/img_work_card.jpg" alt="きらめき花子様 名刺デザイン">[m
+[32m+[m[32m          <div class="works-box"><a href="#"><img src="./images2/img_data.jpg" alt="データ管理">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>きらめき花子様 名刺</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>データ管理</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+[31m-        <div class="works-box"><a href="#"><img src="./images/img_work_blog.jpg" alt="WordPressオリジナルテーマ">[m
+[32m+[m[32m        <div class="works-box"><a href="#"><img src="./images2/img_DJI.jpg" alt="ドローン空撮案内">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>ブログデザイン</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>ドローン空撮案内</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+[31m-        <div class="works-box"><a href="#"><img src="./images/img_work_site.png" alt="株式会社きらめき コーポレートサイト様 Webサイトデザイン">[m
+[32m+[m[32m        <div class="works-box"><a href="#"><img src="./images2/img_website.jpg" alt="webサイト作成">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>株式会社きらめき コーポレートサイト</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>webサイト作成</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+[31m-        <div class="works-box"><a href="#"><img src="./images/img_work_blog.jpg" alt="WordPressオリジナルテーマ">[m
+[32m+[m[32m        <div class="works-box"><a href="#"><img src="./images2/img_website.jpg" alt="webサイト作成">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>ブログデザイン</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>webサイト作成</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+[31m-             <div class="works-box"><a href="#"><img src="./images/img_work_site.png" alt="株式会社きらめき コーポレートサイト様 Webサイトデザイン">[m
+[32m+[m[32m               <div class="works-box"><a href="#"><img src="./images2/img_data.jpg" alt="データ管理">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>株式会社きらめき コーポレートサイト</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>データ管理</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+[31m-            <div class="works-box"><a href="#"><img src="./images/img_work_card.jpg" alt="きらめき花子様 名刺デザイン">[m
+[32m+[m[32m           <div class="works-box"><a href="#"><img src="./images2/img_DJI.jpg" alt="ドローン空撮案内">[m
+             <div class="works-box-inner">[m
+               <div class="text-center">[m
+[31m-                <h3>きらめき花子様 名刺</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+[32m+[m[32m                <h3>ドローン空撮案内</h3><small>2016.04.20</small><span class="button-readmore">Read More</span>[m
+               </div>[m
+             </div></a></div>[m
+       </section><!--contact-->[m
